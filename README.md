@@ -36,7 +36,9 @@ I also write tricky tools and scripts for mobile and video games:
 
 ## As a Seichi Junrei Traveller
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>
-As a [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis. 
+<p align="center">
+  As a <a href="https://en.wikipedia.org/wiki/Seichi_junrei" target="_blank">Seichi Junrei</a> traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis.
+</p>
 
 Outside of Japan, I travelled to Singapore for the anime [_A Place Further than the Universe_](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).
 

@@ -37,6 +37,8 @@ I also write tricky tools and scripts for mobile and video games:
 |--------------------|----------------|
 | [WutheringWaves-RecordCollector](https://github.com/Arthurzyang/WutheringWaves-RecordCollector) | This is a script to analyse your gacha record in WutheringWaves |
 
+I also maintain content for a Seichi Junrei online tool, (Anitabi)[https://anitabi.cn/map], usually about landmarks supplementing and correcting. Sometimes I contribute small feature code to the project. It is a good website, please please, just use it in your trips.
+
 ## As a Seichi Junrei Traveller
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>
 <p>

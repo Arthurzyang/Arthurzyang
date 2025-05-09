@@ -90,8 +90,8 @@ Interesting, huh? Thanks Economics — it involved so much mathematics, which ma
 ## Processing Travel Plans
 | Prefecture    | City (English)               | City (Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|-----------------|
-| **Yamanashi Ken / 山梨県**             | Minami-Alps City             | 南アルプス市               | ゆるキャン△ |
-|                                       | Ichikawamisato Town          | 市川三郷町                 | ゆるキャン△ |
+| **Yamanashi Ken / 山梨県**             | Minami-Alps City             | 南アルプス市               | ゆるキャン△ / MONO |
+|                                       | Ichikawamisato Town          | 市川三郷町                 | ゆるキャン△ / MONO |
 |                                       | Hokuto City                  | 北杜市                     | ゆるキャン△ |
 | **Shizuoka Ken / 静岡県**      | Hayakawa Town                | 早川町                     | ゆるキャン△ | 
 |                                       | Kawanehon Town               | 川根本町（大井川流域）      | ゆるキャン△ |

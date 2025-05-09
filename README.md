@@ -23,12 +23,12 @@ I’m now pursuing my second master’s degree in Robotics.
 
 Interesting, huh? Thanks Economics — it involved so much mathematics, which made everything possible.
 
-### As a Seichi Junrei Traveller
+## As a Seichi Junrei Traveller
 As a Seichi Junrei traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis. 
 
 Outside of Japan, I traveled to Singapore for the anime A Place Further than the Universe.
 
-## Cities I’ve Traveled for Anime
+### Cities I’ve Traveled for Anime
 
 | Prefecture | City (English) | City (Japanese) | Related Anime |
 |-------------------------------|------------------------|-----------------|-----------------|
@@ -67,7 +67,7 @@ Outside of Japan, I traveled to Singapore for the anime A Place Further than the
 | **Outside Japan / 日本以外の地域**    | Singapore         | シンガポール           | 宇宙そらよりも遠い場所  |
 |    | London(UK)       | ろんどん(イギリス)           | けいおん!  |
 
-## Processing Travel Plans
+### Processing Travel Plans
 | Prefecture    | City (English)               | City (Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|-----------------|
 | **Yamanashi Ken / 山梨県**             | Minami-Alps City             | 南アルプス市               | ゆるキャン△ / MONO |
@@ -86,7 +86,7 @@ Outside of Japan, I traveled to Singapore for the anime A Place Further than the
 |                                       | Hino City                    | 日野市                     | SHIROBAKO |
 |                                       | Musashino City               | 武蔵野市                   | SHIROBAKO |
 
-## Future Travel Plans
+### Future Travel Plans
 | Prefecture    | City (English)               | City (Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|-----------------|
 | **Outside Japan / 日本以外の地域**   | Venice(Italy)             | ヴェネツィア(イタリア)               | ARIA |

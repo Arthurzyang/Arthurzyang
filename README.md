@@ -24,7 +24,7 @@ I’m now pursuing my second master’s degree in Robotics.
 Interesting, huh? Thanks Economics — it involved so much mathematics, which made everything possible.
 
 ## As a Seichi Junrei Traveller
-As a Seichi Junrei traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis. 
+As a [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis. 
 
 Outside of Japan, I traveled to Singapore for the anime A Place Further than the Universe.
 

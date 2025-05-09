@@ -23,46 +23,26 @@ I’m now pursuing my second master’s degree in Robotics.
 
 Interesting, huh? Thanks Economics — it involved so much mathematics, which made everything possible.
 
+### As a Seichi Junrei Traveller
+As a Seichi Junrei traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis. 
 
-## Anime I’ve Traveled For
-
-| English Title                           | Japanese Title                  |
-|-----------------------------------------|---------------------------------|
-| K-ON!                                   | けいおん!                       |
-| Sound! Euphonium                        | 響け! ユーフォニアム            |
-| Lucky Star                              | らき☆すた                       |
-| Tamako Market                           | たまこまーけっと               |
-| Deaimon: Recipe for Happiness           | であいもん                      |
-| Chihayafuru                             | ちはやふる                     |
-| Teasing Master Takagi‑san               | からかい上手の高木さん         |
-| A Place Further than the Universe       | 宇宙そらよりも遠い場所         |
-| Hyouka                                  | 氷菓                            |
-| Too Many Losing Heroines!               | 負けヒロインが多すぎる!         |
-| A Salad Bowl of Eccentrics              | 変人のサラダボウル              |
-| Shōshimin Series                        | 〈小市民〉シリーズ             |
-| Higurashi: When They Cry                | ひぐらしのなく頃に              |
-| A Silent Voice                          | 聲の形                          |
-| Yuru Camp△                              | ゆるキャン△                    |
-| Bocchi the Rock!                        | ぼっち・ざ・ろっく!             |
-| Girls Band Cry                          | ガールズバンドクライ           |
-| SHIROBAKO                          | SHIROBAKO           |
-
+Outside of Japan, I traveled to Singapore for the anime A Place Further than the Universe.
 
 ## Cities I’ve Traveled for Anime
 
 | Prefecture | City (English) | City (Japanese) | Related Anime |
 |-------------------------------|------------------------|-----------------|-----------------|
-| **Kyoto Fu / 京都府**           | Kyoto City            | 京都市           | けいおん!/響け! ユーフォニアム/らき☆すた/たまこまーけっと/であいもん |
-|                               | Uji City              | 宇治市           | けいおん!/響け! ユーフォニアム |
+| **Kyoto Fu / 京都府**           | Kyoto City            | 京都市           | けいおん!/ 響け! ユーフォニアム / らき☆すた / たまこまーけっと / であいもん |
+|                               | Uji City              | 宇治市           | けいおん! / 響け! ユーフォニアム |
 | **Hyōgo Ken / 兵庫県**         | Amagasaki City        | 尼崎市           | 響け! ユーフォニアム |
 | **Shiga Ken / 滋賀県**         | Ōtsu City             | 大津市           | ちはやふる |
 |                               | Toyosato Town         | 豊郷町           | けいおん! |
 | **Kagawa Ken / 香川県**        | Shōdoshima Town       | 小豆島（町）     | からかい上手の高木さん |
 | **Gifu Ken / 岐阜県**          | Ōgaki City            | 大垣市           | 聲の形 |
-|                               | Gifu City             | 岐阜市           | 変人のサラダボウル/〈小市民〉シリーズ |
+|                               | Gifu City             | 岐阜市           | 変人のサラダボウル / 〈小市民〉シリーズ |
 |                               | Takayama City         | 高山市           | 氷菓 | 
 |                               | Shirakawa‑go          | 白川郷           | ひぐらしのなく頃に |
-| **Aichi Ken / 愛知県**         | Nagoya City           | 名古屋市         | ゆるキャン△/響け! ユーフォニアム |
+| **Aichi Ken / 愛知県**         | Nagoya City           | 名古屋市         | ゆるキャン△ / 響け! ユーフォニアム |
 |                               | Toyohashi City        | 豊橋市           | 負けヒロインが多すぎる! |
 | **Shizuoka Ken / 静岡県**      | Hamamatsu City        | 浜松市           | ゆるキャン△ |
 |                               | Iwata City            | 磐田市           | ゆるキャン△ |
@@ -80,7 +60,7 @@ Interesting, huh? Thanks Economics — it involved so much mathematics, which ma
 |                               | Kai City              | 甲斐市           | ゆるキャン△ |
 |                               | Fujiyoshida City      | 富士吉田市           | ゆるキャン△ / SHIROBAKO|
 |                               | Yamanakako Mura     | 山中湖村           | ゆるキャン△|
-| **Nagano Prefecture / 長野県**  | Suwa City             | 諏訪市           | ゆるキャン△/ガールズバンドクライ |
+| **Nagano Prefecture / 長野県**  | Suwa City             | 諏訪市           | ゆるキャン△ / ガールズバンドクライ |
 | **Kanagawa Ken / 神奈川県**    | Fujisawa City         | 藤沢市           | ゆるキャン△ |
 |                               | Yokohama City         | 横浜市           | ぼっち・ざ・ろっく! |
 |                               | Kawasaki City         | 川崎市           | ぼっち・ざ・ろっく! |

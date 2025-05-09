@@ -11,7 +11,7 @@ I sometimes share my Seichi Junrei trips on Chinese social media. Well, I'm sorr
 | Language   |                                                                                                                | Language   |    |
 |-------------|--------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
 | C/C++ | My favourite language, just like my waifu :D| C# | For my indie game |
-| Java | Terrible language, it's my job, but I hate it | Python | Terrible language, but I still use it to create some tricky tools |
+| Java | It's real name is Spring :D | Python | Terrible syntactic sugar, but I still use it to create some tricky tools |
 | Matlab | Robotics | JavaScript | My boss don't even try to hire more front-end developers, gesus |
 
 ### About my Background

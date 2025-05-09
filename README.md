@@ -2,7 +2,7 @@
 
 Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, spending time in York, Lancaster, London, and Bristol. (Which means I've had my fair share of dishwater :D).
 
-I’m passionate about software dev driven by Japanese pop culture, especially the projects about Seichi Junrei travels. Please feel free to reach out if you have any interesting ideas! If you have any question about Seichi Junrei travels in Japan, I'm happy to answer your questions as well!
+I’m passionate about software dev driven by Japanese pop culture, especially the projects about Seichi Junrei travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.
 
 I sometimes share my Seichi Junrei trips on Chinese social media. Well, I'm sorry, actuallly I'm too lazy to do so (since I don't have too much time to create videos). You may find it through my [Bilibili Channel](https://space.bilibili.com/94380) if I make any updates.
 

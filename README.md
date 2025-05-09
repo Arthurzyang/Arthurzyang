@@ -110,4 +110,8 @@ Interesting, huh? Thanks Economics — it involved so much mathematics, which ma
 | Prefecture    | City (English)               | City (Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|-----------------|
 | **Outside Japan / 日本以外の地域**   | Venice(Italy)             | ヴェネツィア(イタリア)               | ARIA |
+| **Hyōgo Ken / 兵庫県**         | Nishinomiya City       | 西宮市           | 涼宮ハルヒの憂鬱 |
+|                               | Kobe City              | 神戸市           | Fate/stay night |
+| **Okinawa Prefecture / 沖縄県**| Naha City              | 那覇市           | ゾンビランドサガ |
+| **Saga Prefecture / 佐賀県**   | Saga City              | 佐賀市           | 白い砂のアクアトープ |
 

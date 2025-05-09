@@ -14,7 +14,7 @@ I sometimes share my Seichi Junrei trips on Chinese social media. Well, I'm sorr
 | Java | It's real name is Spring :D | Python | Terrible syntactic sugar, but I still use it to create some tricky tools |
 | Matlab | Robotics | JavaScript | My boss don't even try to hire more front-end developers, gesus |
 
-### About my Background
+### About My Background
 Well, my GCSEs, A‑Levels, and bachelor’s degree were in Economics and Math - nothing to do with Computer Science.
 
 I earned my MSc Computer Science degree in 2022 and became a Java engineer in Shenzhen, China.

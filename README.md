@@ -17,7 +17,7 @@ I sometimes share my Seichi Junrei trips on Chinese social media. Well, I'm sorr
 ### About My Background
 Well, my GCSEs, A‑Levels, and bachelor’s degree were in Economics and Math - nothing to do with Computer Science.
 
-I earned my MSc Computer Science degree in 2022 and became a Java engineer in Shenzhen, China.
+I earned my MSc Computer Science degree in 2022 and became a Java engineer.
 
 I’m now pursuing my second master’s degree in Robotics.
 

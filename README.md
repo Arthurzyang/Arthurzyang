@@ -1,6 +1,6 @@
 ## Slàinte Mhath! (゜-゜)つロ 
 
-<p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/FE771315133A11772F774159743F8430.gif"alt="Centered Image" /></p>
+<p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif"alt="Centered Image" /></p>
 <p>
 Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, spending time in York, Lancaster, London, and Bristol. (Which means I've had my fair share of dishwater :D).
 
@@ -23,7 +23,8 @@ I earned my MSc Computer Science degree in 2022 and became a Java engineer.
 
 I’m now pursuing my second master’s degree in Robotics.
 
-Interesting, huh? Thanks Economics — it involved so much mathematics, which made everything possible.
+Interesting, huh? Thanks Economics — it involved so much mathematics, which made everything possible.<p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/FE771315133A11772F774159743F8430.gif" /></p>
+<p>
 
 ## Some tricky projects
 I am currently focused on a suite of toolchains about Seichi Junrei travel, to solve some of the challenges during my actual trips. For example:

@@ -1,6 +1,5 @@
 ## Slàinte Mhath! (゜-゜)つロ 
 
-<img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="450" height="259">
 Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, spending time in York, Lancaster, London, and Bristol. (Which means I've had my fair share of dishwater :D).
 
 I’m passionate about software dev driven by Japanese pop culture, especially the projects about Seichi Junrei travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.
@@ -36,6 +35,7 @@ I also write tricky tools and scripts for mobile and video games:
 | [WutheringWaves-RecordCollector](https://github.com/Arthurzyang/WutheringWaves-RecordCollector) | This is a script to analyse your gacha record in WutheringWaves |
 
 ## As a Seichi Junrei Traveller
+<img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="1000" height="750">
 As a [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis. 
 
 Outside of Japan, I travelled to Singapore for the anime [_A Place Further than the Universe_](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).

@@ -1,5 +1,7 @@
 ## Slàinte Mhath! (゜-゜)つロ 
 
+<p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/FE771315133A11772F774159743F8430.gif"alt="Centered Image" /></p>
+<p>
 Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, spending time in York, Lancaster, London, and Bristol. (Which means I've had my fair share of dishwater :D).
 
 I’m passionate about software dev driven by Japanese pop culture, especially the projects about Seichi Junrei travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.
@@ -36,8 +38,8 @@ I also write tricky tools and scripts for mobile and video games:
 
 ## As a Seichi Junrei Traveller
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>
-<p align="center">
-  As a <a href="https://en.wikipedia.org/wiki/Seichi_junrei" target="_blank">Seichi Junrei</a> traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis.
+<p>
+As a <a href="https://en.wikipedia.org/wiki/Seichi_junrei" target="_blank">Seichi Junrei</a> traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis.
 </p>
 
 Outside of Japan, I travelled to Singapore for the anime [_A Place Further than the Universe_](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).

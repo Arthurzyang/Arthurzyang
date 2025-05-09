@@ -93,16 +93,16 @@ Interesting, huh? Thanks Economics — it involved so much mathematics, which ma
 | **Yamanashi Ken / 山梨県**             | Minami-Alps City             | 南アルプス市               | ゆるキャン△ |
 |                                       | Ichikawamisato Town          | 市川三郷町                 | ゆるキャン△ |
 |                                       | Hokuto City                  | 北杜市                     | ゆるキャン△ |
-| **Shizuoka Prefecture / 静岡県**      | Hayakawa Town                | 早川町                     | ゆるキャン△ | 
+| **Shizuoka Ken / 静岡県**      | Hayakawa Town                | 早川町                     | ゆるキャン△ | 
 |                                       | Kawanehon Town               | 川根本町（大井川流域）      | ゆるキャン△ |
 |                                       | Higashi-Izu Town             | 東伊豆町                   | ゆるキャン△ |
 |                                       | Shimoda City                 | 下田市                     | ゆるキャン△ |
 |                                       | Itō City                     | 伊東市                     | ゆるキャン△ |
 |                                       | Nishi-Izu Town               | 西伊豆町                   | ゆるキャン△ |
-| **Nagano Prefecture / 長野県**        | Komagane City                | 駒ヶ根市                   | ゆるキャン△ |
+| **Nagano Ken / 長野県**        | Komagane City                | 駒ヶ根市                   | ゆるキャン△ |
 |                                       | Chino City                   | 茅野市                     | ゆるキャン△ |
 |                                       | Shiojiri City                | 塩尻市                     | ゆるキャン△ |
-| **Tokyo Metropolis / 東京都**         | Hachiōji City                | 八王子市                   | ゆるキャン△ / SHIROBAKO |
+| **Tokyo Ken / 東京都**         | Hachiōji City                | 八王子市                   | ゆるキャン△ / SHIROBAKO |
 |                                       | Hino City                    | 日野市                     | SHIROBAKO |
 |                                       | Musashino City               | 武蔵野市                   | SHIROBAKO |
 

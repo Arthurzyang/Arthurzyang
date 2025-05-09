@@ -26,7 +26,7 @@ Interesting, huh? Thanks Economics — it involved so much mathematics, which ma
 ## As a Seichi Junrei Traveller
 As a [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis. 
 
-Outside of Japan, I traveled to Singapore for the anime [_A Place Further than the Universe_](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).
+Outside of Japan, I travelled to Singapore for the anime [_A Place Further than the Universe_](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).
 
 ### Cities I’ve Traveled for Anime
 
@@ -62,8 +62,8 @@ Outside of Japan, I traveled to Singapore for the anime [_A Place Further than t
 |                               | Yamanakako Mura     | 山中湖村           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) |
 | **Nagano Prefecture / 長野県**  | Suwa City             | 諏訪市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / ガールズバンドクライ |
 | **Kanagawa Ken / 神奈川県**    | Fujisawa City         | 藤沢市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) |
-|                               | Yokohama City         | 横浜市           | ぼっち・ざ・ろっく! |
-|                               | Kawasaki City         | 川崎市           | ぼっち・ざ・ろっく! |
+|                               | Yokohama City         | 横浜市           | [ぼっち・ざ・ろっく!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) |
+|                               | Kawasaki City         | 川崎市           | [ぼっち・ざ・ろっく!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) |
 | **Outside Japan / 日本以外の地域**    | Singapore         | シンガポール           | [宇宙そらよりも遠い場所](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).  |
 |    | London(UK)       | ろんどん(イギリス)           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) |
 

@@ -65,7 +65,7 @@ Outside of Japan, I traveled to Singapore for the anime [_A Place Further than t
 |                               | Yokohama City         | 横浜市           | ぼっち・ざ・ろっく! |
 |                               | Kawasaki City         | 川崎市           | ぼっち・ざ・ろっく! |
 | **Outside Japan / 日本以外の地域**    | Singapore         | シンガポール           | [宇宙そらよりも遠い場所](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).  |
-|    | London(UK)       | ろんどん(イギリス)           | けいおん!  |
+|    | London(UK)       | ろんどん(イギリス)           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) |
 
 ### Processing Travel Plans
 | Prefecture    | City (English)               | City (Japanese)           | Related Anime |

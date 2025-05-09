@@ -25,13 +25,13 @@ Interesting, huh? Thanks Economics — it involved so much mathematics, which ma
 
 ## Some tricky projects
 I am currently focused on a suite of toolchains about Seichi Junrei travel, to solve some of the challenges during my actual trips. For example:
-| Project |  |
-|-------------|----------------|
+|       Project      |  |
+|--------------------|----------------|
 | [seichijunrei-eki-finder](https://github.com/Arthurzyang/seichijunrei-eki-finder) | This is a script that retrieves Seichi Junrei landmarks through the [Anitabi APIs](https://github.com/anitabi/anitabi.cn-document/blob/main/api.md). It uses the [Overpass APIs](https://wiki.openstreetmap.org/wiki/Overpass_API) to search for the nearest tram/subway station for each landmark |
 
 I also write tricky tools and scripts for mobile and video games:
-| Project |  |
-|-------------|----------------|
+|       Project      |  |
+|--------------------|----------------|
 | [WutheringWaves-RecordCollector](https://github.com/Arthurzyang/WutheringWaves-RecordCollector) | This is a script to analyse your gacha record in WutheringWaves |
 
 ## As a Seichi Junrei Traveller

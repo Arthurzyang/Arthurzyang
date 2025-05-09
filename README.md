@@ -1,5 +1,6 @@
 ## Slàinte Mhath! (゜-゜)つロ 
 
+<img src="[https://github.com/user-attachments/assets/1ac315eb-e398-4d4f-9a87-97be17c262a0](https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true)" width="450" height="259">
 Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, spending time in York, Lancaster, London, and Bristol. (Which means I've had my fair share of dishwater :D).
 
 I’m passionate about software dev driven by Japanese pop culture, especially the projects about Seichi Junrei travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.

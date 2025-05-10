@@ -79,7 +79,7 @@ Outside of Japan, I travelled to Singapore for the anime [_A Place Further than 
 |                               | Kai City              | 甲斐市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) |
 |                               | Fujiyoshida City      | 富士吉田市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / [SHIROBAKO](https://en.wikipedia.org/wiki/Shirobako)|
 |                               | Yamanakako Mura     | 山中湖村           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) |
-| **Nagano Prefecture / 長野県**  | Suwa City             | 諏訪市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / ガールズバンドクライ |
+| **Nagano Ken / 長野県**  | Suwa City             | 諏訪市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / ガールズバンドクライ |
 | **Kanagawa Ken / 神奈川県**    | Fujisawa City         | 藤沢市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) |
 |                               | Yokohama City         | 横浜市           | [ぼっち・ざ・ろっく!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) |
 |                               | Kawasaki City         | 川崎市           | [ぼっち・ざ・ろっく!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) |
@@ -111,6 +111,6 @@ Outside of Japan, I travelled to Singapore for the anime [_A Place Further than 
 | **Outside Japan / 日本以外の地域**   | Venice(Italy)             | ヴェネツィア(イタリア)               | ARIA |
 | **Hyōgo Ken / 兵庫県**         | Nishinomiya City       | 西宮市           | 涼宮ハルヒの憂鬱 |
 |                               | Kobe City              | 神戸市           | Fate/stay night |
-| **Okinawa Prefecture / 沖縄県**| Naha City              | 那覇市           | 白い砂のアクアトープ |
-| **Saga Prefecture / 佐賀県**   | Saga City              | 佐賀市           | ゾンビランドサガ |
+| **Okinawa Ken / 沖縄県**| Naha City              | 那覇市           | 白い砂のアクアトープ |
+| **Saga Ken / 佐賀県**   | Saga City              | 佐賀市           | ゾンビランドサガ |
 

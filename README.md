@@ -16,15 +16,7 @@ I sometimes share my Seichi Junrei trips on Chinese social media. Well, I'm sorr
 | Java | It's real name is Spring :D | Python | Terrible syntactic sugar, but I still use it to create some tricky tools |
 | Matlab | Robotics | JavaScript | My boss don't even try to hire more front-end developers, gesus |
 
-### About My Background
-Well, my GCSEs, A‑Levels, and bachelor’s degree were in Economics and Math - nothing to do with Computer Science.
-
-I earned my MSc Computer Science degree in 2022 and became a Java engineer.
-
-I’m now pursuing my second master’s degree in Robotics.
-
-Interesting, huh? Thanks Economics — it involved so much mathematics, which made everything possible.<p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/FE771315133A11772F774159743F8430.gif" /></p>
-<p>
+<p><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/FE771315133A11772F774159743F8430.gif" /></p> Yes, my job is Java Engineer, but it is a trash language.
 
 ## Some tricky projects
 I am currently focused on a suite of toolchains about Seichi Junrei travel, to solve some of the challenges during my actual trips. For example:

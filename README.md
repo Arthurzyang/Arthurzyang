@@ -16,7 +16,10 @@ I sometimes share my Seichi Junrei trips on Chinese social media. Well, I'm sorr
 | Java | It's real name is Spring :D | Python | Terrible syntactic sugar, but I still use it to create some tricky tools |
 | Matlab | Robotics | JavaScript | My boss don't even try to hire more front-end developers, gesus |
 
-<p><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/FE771315133A11772F774159743F8430.gif" /></p> Yes, my job is Java Engineer, but it is a trash language.
+<p style="display: flex; align-items: center;">
+  <img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/FE771315133A11772F774159743F8430.gif" style="margin-right: 10px;" />
+  Yes, my job is Java Engineer, but it is a trash language.
+</p>
 
 ## Some tricky projects
 I am currently focused on a suite of toolchains about Seichi Junrei travel, to solve some of the challenges during my actual trips. For example:

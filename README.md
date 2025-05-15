@@ -2,11 +2,11 @@
 
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif"alt="Centered Image" /></p>
 <p>
-Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, spending time in York, Lancaster, London, and Bristol. (Which means I've had my fair share of dishwater :D).
+Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, which means I've had my fair share of dishwater :D
 
-I’m passionate about software dev driven by Japanese pop culture, especially the projects about Seichi Junrei travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.
+I’m passionate about software dev driven by Japanese pop culture, like anime, manga and video games, especially the projects about [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.
 
-I sometimes share my Seichi Junrei trips on Chinese social media. Well, I'm sorry, actuallly I'm too lazy to do so (since I don't have too much time to create videos). You may find it through my [Bilibili Channel](https://space.bilibili.com/94380) if I make any updates.
+I sometimes share my Seichi Junrei trips on Chinese social media. Well, sorry, actuallly I'm too lazy to do so (since I don't have too much time to create videos). You may find it through my [Bilibili Channel](https://space.bilibili.com/94380) if I make any updates.
 
 ## Skills
 ### Coding Languages
@@ -14,7 +14,7 @@ I sometimes share my Seichi Junrei trips on Chinese social media. Well, I'm sorr
 |-------------|--------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
 | C/C++ | My favourite language, just like my waifu :D| C# | For my indie game |
 | Java | It's real name is Spring :D | Python | Terrible syntactic sugar, but I still use it to create some tricky tools |
-| Matlab | Robotics | JavaScript | My boss don't even try to hire more front-end developers, gesus |
+| Matlab | Robotics | Front-end tech stack | My boss don't even try to hire more front-end developers, gesus |
 
 <p style="display: flex; align-items: center;">
   <img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/FE771315133A11772F774159743F8430.gif" style="margin-right: 10px;" />

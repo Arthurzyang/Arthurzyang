@@ -3,9 +3,9 @@
 <p>
   <img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif" 
        alt="Yuru Camp" 
-       width="200" 
-       align="left" 
-       style="margin-right: 20px; margin-bottom: 10px;" />
+       width="200"
+       style="float:left; margin-right:20px; margin-bottom:10px;" />
+       
   Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, which means I've had my fair share of dishwater :D
   <br><br>
   I’m passionate about software dev driven by Japanese pop culture, like anime, manga and video games, especially the projects about 
@@ -14,6 +14,9 @@
   I sometimes share my Seichi Junrei trips on Chinese social media. Well, sorry, actually I'm too lazy to do so (since I don't have too much time to create videos). You may find it through my 
   <a href="https://space.bilibili.com/你的ID">Bilibili Channel</a> if I make any updates.
 </p>
+
+<div style="clear: both;"></div>
+
 
 ## Skills
 ### Coding Languages

@@ -1,22 +1,19 @@
 <h1>Slàinte Mhath! ( ﾟｰﾟ)つロ</h1>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<p>
   <img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif" 
        alt="Yuru Camp" 
        width="200" 
-       style="margin-top: 4px;" />
-  <div>
-    <p>
-      Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, which means I've had my fair share of dishwater :D
-    </p>
-    <p>
-      I’m passionate about software dev driven by Japanese pop culture, like anime, manga and video games, especially the projects about <a href="https://en.wikipedia.org/wiki/Pilgrimage_(anime)">Seichi Junrei</a> travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.
-    </p>
-    <p>
-      I sometimes share my Seichi Junrei trips on Chinese social media. Well, sorry, actuallly I'm too lazy to do so (since I don't have too much time to create videos). You may find it through my <a href="https://space.bilibili.com/你的ID">Bilibili Channel</a> if I make any updates.
-    </p>
-  </div>
-</div>
+       align="left" 
+       style="margin-right: 20px; margin-bottom: 10px;" />
+  Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, which means I've had my fair share of dishwater :D
+  <br><br>
+  I’m passionate about software dev driven by Japanese pop culture, like anime, manga and video games, especially the projects about 
+  <a href="https://en.wikipedia.org/wiki/Pilgrimage_(anime)">Seichi Junrei</a> travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.
+  <br><br>
+  I sometimes share my Seichi Junrei trips on Chinese social media. Well, sorry, actually I'm too lazy to do so (since I don't have too much time to create videos). You may find it through my 
+  <a href="https://space.bilibili.com/你的ID">Bilibili Channel</a> if I make any updates.
+</p>
 
 ## Skills
 ### Coding Languages

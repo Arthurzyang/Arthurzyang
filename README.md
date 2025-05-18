@@ -1,6 +1,4 @@
-
 <h1>Slàinte Mhath! ( ﾟｰﾟ)つロ</h1>
-## Slàinte Mhath! (゜-゜)つロ 
 
 <p align="left">
   <img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif" alt="Yuru Camp" width="200" align="right" style="margin-left: 20px; margin-bottom: 10px;" />
@@ -12,14 +10,6 @@ I’m passionate about software dev driven by Japanese pop culture, like anime, 
 
 I sometimes share my Seichi Junrei trips on Chinese social media. Well, sorry, actuallly I'm too lazy to do so (since I don't have too much time to create videos). You may find it through my <a href="https://space.bilibili.com/你的ID">Bilibili Channel</a> if I make any updates.
 
-
-<p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif"alt="Centered Image" /></p>
-<p>
-Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, which means I've had my fair share of dishwater :D
-
-I’m passionate about software dev driven by Japanese pop culture, like anime, manga and video games, especially the projects about [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) travels. Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities.
-
-I sometimes share my Seichi Junrei trips on Chinese social media. Well, sorry, actuallly I'm too lazy to do so (since I don't have too much time to create videos). You may find it through my [Bilibili Channel](https://space.bilibili.com/94380) if I make any updates.
 
 ## Skills
 ### Coding Languages

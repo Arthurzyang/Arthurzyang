@@ -1,7 +1,7 @@
 <h1>Slàinte Mhath! ( ﾟｰﾟ)つロ</h1>
 
 <p align="left">
-  <img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif" alt="Yuru Camp" width="200" align="right" style="margin-left: 20px; margin-bottom: 10px;" />
+  <img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif" alt="Yuru Camp" width="200" align="right" style="margin-left: 50px; margin-bottom: 30px;" />
 </p>
 
 Hi there! I’m a software engineer, robotics learner and indie game developer based in England and China, sometimes Japan. Since my high school, I've lived in England for over nine years, which means I've had my fair share of dishwater :D

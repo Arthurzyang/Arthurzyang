@@ -11,7 +11,7 @@
 - :earth_asia: Based in Hong Kong and Bristol, sometimes Japan.  
 - :heart_eyes: Dev driven by Japanese pop culture, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
 - :sparkles: C/Cpp · Java/Spring Framework · C#/.NET · Unity 3D · Matlab · Oracle SQL · ARM Assembly
-- :hourglass: Processing: Seichi Junrei Tool Kits · GA scripts for PSN/Steam/XBox/NS
+- :hourglass: Processing: Seichi Junrei Tool Kits · GA scripts for PSN/Steam/XBox/NS · Unreleased robotics projects
 
 Feel free to reach out if you have any interesting ideas! :sparkling_heart:
 

@@ -28,16 +28,11 @@ I also maintain content for a Seichi Junrei online tool, [Anitabi](https://anita
 
 ## As a Seichi Junrei Traveller
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>
-<p>
-As a <a href="https://en.wikipedia.org/wiki/Seichi_junrei" target="_blank">Seichi Junrei</a> traveller, I frequently visit locations related to Japanese anime and games. So far, the spots I’ve been include: Kagawa Ken, Kyoto Fu, Hyōgo Ken, Shiga Ken, Gifu Ken, Aichi Ken, Shizuoka Ken, Nagano Ken, Yamanashi Ken, Kanagawa Ken, and Tokyo Metropolis.
-</p>
-
-Outside of Japan, I travelled to Singapore for the anime [_A Place Further than the Universe_](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe). Venice for Aria will be later this year.
 
 ### Cities I’ve Traveled for Anime
 
 | Prefecture | City (English/Japanese) | Related Anime |
-|-------------------------------|------------------------|-----------------|-----------------|
+|-------------------------------|------------------------|-----------------|
 | **Kyoto Fu / 京都府**           | Kyoto City 京都市           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) / [響け! ユーフォニアム](https://en.wikipedia.org/wiki/Sound!_Euphonium) / らき☆すた / たまこまーけっと / であいもん |
 |                               | Uji City 宇治市           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) / [響け! ユーフォニアム](https://en.wikipedia.org/wiki/Sound!_Euphonium) |
 | **Hyōgo Ken / 兵庫県**         | Amagasaki City 尼崎市           | [響け! ユーフォニアム](https://en.wikipedia.org/wiki/Sound!_Euphonium) |
@@ -75,7 +70,7 @@ Outside of Japan, I travelled to Singapore for the anime [_A Place Further than 
 
 ### Processing Travel Plans
 | Prefecture    | City (English/Japanese)           | Related Anime |
-|---------------------------------------|------------------------------|---------------------------|-----------------|
+|---------------------------------------|------------------------------|---------------------------|
 | **Yamanashi Ken / 山梨県**             | Minami-Alps City 南アルプス市               | ゆるキャン△ / MONO |
 |                                       | Ichikawamisato Town 市川三郷町                 | ゆるキャン△ / MONO |
 |                                       | Hokuto City 北杜市                     | ゆるキャン△ |
@@ -94,7 +89,7 @@ Outside of Japan, I travelled to Singapore for the anime [_A Place Further than 
 
 ### Future Travel Plans
 | Prefecture    | City (English/Japanese)           | Related Anime |
-|---------------------------------------|------------------------------|---------------------------|-----------------|
+|---------------------------------------|------------------------------|---------------------------|
 | **Outside Japan / 日本以外の地域**   | Venice(Italy) ヴェネツィア(イタリア)               | ARIA |
 | **Hyōgo Ken / 兵庫県**         | Nishinomiya City 西宮市           | 涼宮ハルヒの憂鬱 |
 |                               | Kobe City 神戸市           | Fate/stay night |

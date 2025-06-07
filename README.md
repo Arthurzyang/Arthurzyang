@@ -1,11 +1,11 @@
 <h1>Slàinte Mhath! ( ﾟｰﾟ)つロ :beer: </h1>
 
-<div class="text--center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Arthurzyang/Arthurzyang/main/preview.gif" 
      alt="Yuru Camp" 
      width="200"
      style="float:left; margin-right:20px; margin-bottom:10px;" />
-</div>
+</p>
 
 - 💻 Software engineer, robotics learner and indie game developer.  
 - :earth_asia: Based in Hong Kong and Bristol, sometimes Japan.  

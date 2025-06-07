@@ -3,6 +3,8 @@
 - 💻 Software engineer, robotics learner and indie game developer.  
 - :earth_asia: Based in England and China, sometimes Japan.  
 - :heart_eyes: Dev driven by Japanese pop culture, like anime, manga and video games — especially projects about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
+- :sparkles: C/Cpp · Java · C#/.NET · Unity 3D · Matlab · Python3 · Front-end Stacks · Oracle SQL
+- :hourglass: Processing: Seichi Junrei Tool Kits · Game Achievenment Collector
 
 Feel free to reach out if you have interesting ideas or questions about Seichi Junrei! :sparkling_heart::sparkling_heart:
 <img src="https://raw.githubusercontent.com/Arthurzyang/Arthurzyang/main/preview.gif" 

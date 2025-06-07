@@ -3,7 +3,6 @@
 - 💻 Software engineer, robotics learner and indie game developer.  
 - :earth_asia: Based in England and China, sometimes Japan.  
 - :heart_eyes: Dev driven by Japanese pop culture, like anime, manga and video games — especially projects about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
-- :desert_island: [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) traveller, and content contributor for related platforms, see [Anitabi](https://anitabi.cn/map).
 
 Feel free to reach out if you have interesting ideas or questions about Seichi Junrei! :sparkling_heart::sparkling_heart:
 <img src="https://raw.githubusercontent.com/Arthurzyang/Arthurzyang/main/preview.gif" 
@@ -23,8 +22,6 @@ I also write tricky tools and scripts for mobile and video games:
 |       Project      |  |
 |--------------------|----------------|
 | [WutheringWaves-RecordCollector](https://github.com/Arthurzyang/WutheringWaves-RecordCollector) | This is a script to analyse your gacha record in WutheringWaves |
-
-I also maintain content for a Seichi Junrei online tool, [Anitabi](https://anitabi.cn/map), usually about landmarks supplementing and correcting. Sometimes I contribute small feature code to the project. It is a good website, please please, just use it in your trips.
 
 ## As a Seichi Junrei Traveller
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>

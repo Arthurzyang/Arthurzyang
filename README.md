@@ -28,5 +28,5 @@ I may release my robotics project code as soon as they are allowed to do so.
 ## As a Seichi Junrei Traveller
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>
 
-See (My Seichi Junrei Travel Record)[https://github.com/Arthurzyang/Arthurzyang/blob/main/seichi_junrei_intro.md]
+See [My Seichi Junrei Travel Record](https://github.com/Arthurzyang/Arthurzyang/blob/main/seichi_junrei_intro.md)
 

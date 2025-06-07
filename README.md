@@ -1,18 +1,15 @@
 <h1>Slàinte Mhath! ( ﾟｰﾟ)つロ</h1>
 
-<p>    
-  - Software engineer, robotics learner and indie game developer.
-  - Based in England and China, sometimes Japan. 
-  - Passionate about software dev driven by Japanese pop culture, like anime, manga and video games, especially the projects about 
-  <a href="https://en.wikipedia.org/wiki/Pilgrimage_(anime)">Seichi Junrei</a> travels. 
-  
-  Please feel free to reach out if you have any interesting ideas or questions about Seichi Junrei activities!
+- Software engineer, robotics learner and indie game developer.  
+- Based in England and China, sometimes Japan.  
+- Passionate about software dev driven by Japanese pop culture, like anime, manga and video games — especially projects about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) adventures.  
 
-    <img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/preview.gif" 
-       alt="Yuru Camp" 
-       width="200"
-       style="float:left; margin-right:20px; margin-bottom:10px;" />
-    </p>
+Feel free to reach out if you have interesting ideas or questions related to Seichi Junrei!
+
+<img src="https://raw.githubusercontent.com/Arthurzyang/Arthurzyang/main/preview.gif" 
+     alt="Yuru Camp" 
+     width="200"
+     style="float:left; margin-right:20px; margin-bottom:10px;" />
 
 <div style="clear: both;"></div>
 

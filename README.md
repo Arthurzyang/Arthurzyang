@@ -31,7 +31,7 @@ I also write tricky tools and scripts for mobile and video games:
 I may release my robotics project code as soon as they are allowed to do so.
 
 ## As a Seichi Junrei Traveller
-<p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>
-
-p align="center">See [My Seichi Junrei Travel Record](https://github.com/Arthurzyang/Arthurzyang/blob/main/seichi_junrei_intro.md)</p>
+|<img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" />|
+|------------------------------------|
+|See [My Seichi Junrei Travel Record](https://github.com/Arthurzyang/Arthurzyang/blob/main/seichi_junrei_intro.md)|
 

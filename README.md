@@ -23,6 +23,8 @@ I also write tricky tools and scripts for mobile and video games:
 |--------------------|----------------|
 | [WutheringWaves-RecordCollector](https://github.com/Arthurzyang/WutheringWaves-RecordCollector) | This is a script to analyse your gacha record in WutheringWaves |
 
+I may release my robotics projects in the future as soon as they are allowed to do so.
+
 ## As a Seichi Junrei Traveller
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>
 

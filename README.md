@@ -1,15 +1,15 @@
-<h1>Slàinte Mhath! ( ﾟｰﾟ)つロ</h1>
+<h1>Slàinte Mhath! ( ﾟｰﾟ)つロ :beer: </h1>
 
+- 💻 Software engineer, robotics learner and indie game developer.  
+- :earth_asia: Based in England and China, sometimes Japan.  
+- :heart_eyes: Love dev driven by Japanese pop culture, like anime, manga and video games — especially projects about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
+- :airplane: [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) traveller, and content contributor for related platforms, see [Anitabi](https://anitabi.cn/map).
+
+Feel free to reach out if you have interesting ideas or questions related to Seichi Junrei! :sparkling_heart::sparkling_heart:
 <img src="https://raw.githubusercontent.com/Arthurzyang/Arthurzyang/main/preview.gif" 
      alt="Yuru Camp" 
      width="200"
      style="float:left; margin-right:20px; margin-bottom:10px;" />
-
-- Software engineer, robotics learner and indie game developer.  
-- Based in England and China, sometimes Japan.  
-- Passionate about software dev driven by Japanese pop culture, like anime, manga and video games — especially projects about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.  
-
-Feel free to reach out if you have interesting ideas or questions related to Seichi Junrei!
 
 <div style="clear: both;"></div>
 

@@ -29,7 +29,7 @@ I also maintain content for a Seichi Junrei online tool, [Anitabi](https://anita
 ## As a Seichi Junrei Traveller
 <p align="center"><img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/IMG_6040.jpg?raw=true" width="500" height="370" alt="Centered Image" /></p>
 
-### Cities I’ve Traveled for Anime
+### Past Seichi Junrei Travels
 
 | Prefecture | City (English/Japanese) | Related Anime |
 |-------------------------------|------------------------|-----------------|
@@ -46,7 +46,7 @@ I also maintain content for a Seichi Junrei online tool, [Anitabi](https://anita
 | **Outside Japan / 日本以外の地域**    | Singapore シンガポール           | [宇宙そらよりも遠い場所](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).  |
 |    | London(UK) ろんどん(イギリス)           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) |
 
-### Processing Travel Plans
+### Current Travels
 | Prefecture    | City (English/Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|
 | **Yamanashi Ken / 山梨県**             | Minami-Alps City 南アルプス市 / Ichikawamisato Town 市川三郷町 / Hokuto City 北杜市             | ゆるキャン△ / MONO |
@@ -54,7 +54,7 @@ I also maintain content for a Seichi Junrei online tool, [Anitabi](https://anita
 | **Nagano Ken / 長野県**        | Komagane City 駒ヶ根市/Chino City 茅野市/Shiojiri City 塩尻市| ゆるキャン△ |
 | **Tokyo Ken / 東京都**         | Hachiōji City 八王子市/Hino City 日野市/Musashino City 武蔵野市 | ゆるキャン△ / SHIROBAKO |
 
-### Future Travel Plans
+### Future Travels
 | Prefecture    | City (English/Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|
 | **Outside Japan / 日本以外の地域**   | Venice(Italy) ヴェネツィア(イタリア)               | ARIA |

@@ -24,7 +24,8 @@
 | **Yamanashi Ken / 山梨県**             | Minami-Alps City 南アルプス市 / Ichikawamisato Town 市川三郷町 / Hokuto City 北杜市             | ゆるキャン△ / MONO |
 | **Shizuoka Ken / 静岡県**      | Hayakawa Town 早川町/Kawanehon Town 川根本町（大井川流域） / Higashi-Izu Town 東伊豆町 /Shimoda City 下田市 / Itō City 伊東市/ Nishi-Izu Town 西伊豆町                     | ゆるキャン△ | 
 | **Nagano Ken / 長野県**        | Komagane City 駒ヶ根市/Chino City 茅野市/Shiojiri City 塩尻市| ゆるキャン△ |
-| **Tokyo Ken / 東京都**         | Hachiōji City 八王子市/Hino City 日野市/Musashino City 武蔵野市 | ゆるキャン△ / SHIROBAKO |
+| **Tokyo / 東京都**         | Hachiōji City 八王子市/Hino City 日野市/Musashino City 武蔵野市 | ゆるキャン△ / SHIROBAKO |
+| **Chiba Ken / 千葉県**         | Chōshi City 銚子市 | ATRI |
 
 ### Future Travels
 | Prefecture    | City (English/Japanese)           | Related Anime |

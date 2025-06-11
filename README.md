@@ -15,7 +15,7 @@
 
 |![landmark_empty](atri-ep-1f-1024x576.png)|
 |-------------------------------------------------------------|
-|❤️ My dear waifu Atri and she is why I learn Robotics :D|
+|❤️ My dear waifu Atri and she is why I learn Robotics ❤️|
 
 Feel free to reach out if you have any interesting ideas! :sparkling_heart:
 

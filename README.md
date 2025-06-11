@@ -12,7 +12,9 @@
 - :heart_eyes: Dev driven by Japanese pop culture, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
 - :sparkles: C/Cpp · Java/Spring Framework · C#/.NET · Unity 3D · Matlab · Oracle SQL · ARM Assembly
 - :hourglass: Processing: Seichi Junrei Tool Kits · GA scripts for PSN/Steam/XBox/NS · Unreleased robotics projects
-- ❤️ Atri is my waifu and she is why I learn Robotics :D
+
+|![landmark_empty](atri-ep-1f-1024x576.png)|
+|❤️ Atri is my waifu and she is why I learn Robotics :D|
 
 Feel free to reach out if you have any interesting ideas! :sparkling_heart:
 

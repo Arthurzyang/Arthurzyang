@@ -14,6 +14,7 @@
 - :hourglass: Processing: Seichi Junrei Tool Kits · GA scripts for PSN/Steam/XBox/NS · Unreleased robotics projects
 
 |![landmark_empty](atri-ep-1f-1024x576.png)|
+|-------------------------------------------------------------|
 |❤️ Atri is my waifu and she is why I learn Robotics :D|
 
 Feel free to reach out if you have any interesting ideas! :sparkling_heart:

@@ -7,7 +7,7 @@
      style="float:left; margin-right:20px; margin-bottom:10px;" />
 </p>
 
-- 💻 Java engineer, robotics learner and indie game developer.  
+- 💻 Java engineer, robotics learner and indie game developer. BSc Economics -> MSc Computer Science -> MSc Robotics
 - :earth_asia: Based in Hong Kong and Bristol, sometimes Japan.  
 - :heart_eyes: Dev driven by Japanese pop culture, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
 - :sparkles: C/Cpp · Java/Spring Framework · C#/.NET · Unity 3D · Matlab · Oracle SQL · ARM Assembly

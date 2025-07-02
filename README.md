@@ -1,4 +1,4 @@
-<h1>Slàinte Mhath! ( ﾟｰﾟ)つロ :beer: </h1>
+<h1>Slàinte Mhath! ( ﾟｰﾟ)つ:beer: </h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Arthurzyang/Arthurzyang/main/preview.gif" 
@@ -10,7 +10,7 @@
 - 💻 Java engineer, robotics learner and indie game developer. BSc Economics -> MSc Computer Science -> MSc Robotics
 - :earth_asia: Based in Shenzhen, Hong Kong and Bristol, sometimes Japan.  
 - :heart_eyes: Dev driven by hobbies, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
-- :sparkles: C/Cpp · Java/Spring · C#/.NET · Unity 3D · Matlab · Oracle SQL · ARM Assembly
+- :sparkles: C/Cpp · Java/Spring · C#/.NET · Py3 · Unity 3D · Matlab · Oracle SQL · ARM Assembly
 - :hourglass: Processing: Seichi Junrei Tool Kits · GA scripts for PSN/Steam/XBox/NS · Unreleased robotics projects
 
 |![landmark_empty](atri-ep-1f-1024x576.png)|

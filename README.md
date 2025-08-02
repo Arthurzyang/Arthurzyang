@@ -7,11 +7,10 @@
      style="float:left; margin-right:20px; margin-bottom:10px;" />
 </p>
 
-- 💻 CRUD Boy, API Summoner and C+V Engineer. Waifu Oriented Programming. BSc Economics -> MSc Computer Science -> MSc Robotics
+- 💻 CRUD Boy, API Summoner and C+V Engineer. Waifu Oriented Programming. 
 - :earth_asia: Based in China and England, sometimes Japan.  
 - :heart_eyes: Dev driven by hobbies, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
-- :sparkles: C/Cpp · Java/Spring · C#/.NET · Py3 · Unity 3D · Matlab · Oracle SQL · ARM Assembly
-- :hourglass: Processing: Seichi Junrei Tool Kits · GA scripts for PSN/Steam/XBox/NS · Unreleased robotics projects
+
 
 |![landmark_empty](atri-ep-1f-1024x576.png)|
 |-------------------------------------------------------------|

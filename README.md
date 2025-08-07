@@ -14,7 +14,7 @@
 
 |![landmark_empty](atri-ep-1f-1024x576.png)|
 |-------------------------------------------------------------|
-|❤️ This ia Atri, my dear waifu and eternal dream. And...she is why I learn Robotics. ❤️|
+|❤️ This is Atri, my dear waifu and eternal dream. And...she is why I learn Robotics. ❤️|
 
 Feel free to reach out if you have any interesting ideas! :sparkling_heart:
 

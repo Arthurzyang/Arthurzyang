@@ -16,8 +16,6 @@
 |-------------------------------------------------------------|
 |❤️ This is Atri, my dear waifu and eternal dream. And...she is why I learn Robotics. ❤️|
 
-Feel free to reach out if you have any interesting ideas! :sparkling_heart:
-
 <div style="clear: both;"></div>
 
 ## As a Seichi Junrei Traveller

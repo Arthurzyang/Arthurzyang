@@ -11,7 +11,8 @@
 - :earth_asia: Based in China and England, sometimes Japan.  
 - :heart_eyes: Dev driven by hobbies, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
 
-I'm currently focusing on tool dev for [Anitabi](https://hk.anitabi.cn/map), as well as content operations. Plspls, try Anitabi if you're interested in Seichi Junrei travels :D
+I'm currently focusing on tool dev for [Anitabi](https://hk.anitabi.cn/map), as well as content operations. 
+Plspls, try Anitabi if you're interested in Seichi Junrei travels :D
 
 
 |![landmark_empty](atri-ep-1f-1024x576.png)|

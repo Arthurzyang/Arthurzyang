@@ -8,7 +8,6 @@
 </p>
 
 - 💻 CRUD Boy, API Summoner and C+V Engineer. Waifu Oriented Programming. 
-- :earth_asia: Based in China and England, sometimes Japan.  
 - :heart_eyes: Dev driven by hobbies, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Pilgrimage_(anime)) travels.
 
 I'm currently focusing on tool dev for [Anitabi](https://hk.anitabi.cn/map), as well as content operations. 

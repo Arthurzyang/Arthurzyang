@@ -30,7 +30,8 @@
 ### Future Travels
 | Prefecture    | City (English/Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|
-| **Outside Japan / 日本以外の地域**   | Venice(Italy) ヴェネツィア(イタリア)               | ARIA |
+| **Outside Japan / 日本以外の地域**   | Venice(Italy) ヴェネツィア(イタリア) | ARIA |
+|    | Bath, Glastonbury, Bibury, Bourton-on-the-Water (England) バース/グラストンベリー/バイブリー/ボートン・オン・ザ・ウォーター (イングランド) | きんいろモザイク/魔法使いの嫁/リトルウィッチアカデミア |
 | **Hyōgo Ken / 兵庫県**         | Nishinomiya City 西宮市 / Kobe City 神戸市| 涼宮ハルヒの憂鬱 / Fate/stay night |
 | **Okinawa Ken / 沖縄県**| Naha City 那覇市           | 白い砂のアクアトープ |
 | **Saga Ken / 佐賀県**   | Saga City 佐賀市           | ゾンビランドサガ |

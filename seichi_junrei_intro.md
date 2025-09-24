@@ -27,7 +27,7 @@
 | **Tokyo / 東京都**         | Hachiōji City 八王子市/Hino City 日野市/Musashino City 武蔵野市 | ゆるキャン△ / SHIROBAKO |
 | **Chiba Ken / 千葉県**         | Chōshi City 銚子市 | ATRI |
 
-### Future Travels
+### Later 2026
 | Prefecture    | City (English/Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|
 | **Outside Japan / 日本以外の地域**   | Venice(Italy) ヴェネツィア(イタリア) | ARIA |

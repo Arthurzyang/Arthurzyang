@@ -13,6 +13,14 @@
 I'm currently focusing on tool dev for [Anitabi](https://hk.anitabi.cn/map), as well as content operations. 
 Pls try Anitabi if you love Seichi Junrei travels :D
 
+Btw, 3 yrs of Java engineer made me realise that Java is the worst language in the world. Yes, even worse than Python :D Great community, but terrible companies and their big ball of mud.
+<p align="center">
+<img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/java-mud.jpg?raw=true" 
+     alt="java-mud" 
+     width="200"
+     style="float:left; margin-right:20px; margin-bottom:10px;" />
+</p>
+
 
 |![landmark_empty](atri-ep-1f-1024x576.png)|
 |-------------------------------------------------------------|

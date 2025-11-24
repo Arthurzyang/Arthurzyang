@@ -10,7 +10,7 @@
 - 💻 CRUD Boy, API Summoner and C+V Engineer. Waifu Oriented Programming. 
 - :heart_eyes: Dev driven by hobbies, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) travels.
 
-I'm currently focusing on tool dev for [Anitabi](https://hk.anitabi.cn/map), as well as content operations. 
+I'm currently focusing on content contribution and tool dev for [Anitabi](https://hk.anitabi.cn/map), as well as content operations. 
 Pls try Anitabi if you love Seichi Junrei travels :D
 
 Btw, 2 yrs experience as Java engineer made me realise that Java is the worst language in the world. Yes, even worse than Python :D Great community, but terrible companies and their big ball of mud.

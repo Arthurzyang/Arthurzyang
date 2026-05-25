@@ -18,6 +18,7 @@
 | **Outside Japan / 日本以外の地域**    | Singapore シンガポール           | [宇宙そらよりも遠い場所](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).  |
 |    | London(UK) ろんどん(イギリス)           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) |
 |    |            | [きんいろモザイク]([https://en.wikipedia.org/wiki/K-On!](https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF)) 
+|    |            | 魔法使いの嫁
 |    | Bath, Glastonbury, Bibury, Bourton-on-the-Water (England) バース/グラストンベリー/バイブリー/ボートン・オン・ザ・ウォーター (イングランド) | きんいろモザイク/魔法使いの嫁/リトルウィッチアカデミア |
 
 ### Current Travels

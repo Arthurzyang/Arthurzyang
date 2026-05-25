@@ -12,15 +12,6 @@
 
 I'm currently focusing on content operation and tool dev for content travels :D
 
-Btw, 2 yrs experience as Java engineer made me realise that Java is the worst language in the world. Yes, even worse than Python :D Great community, but terrible companies and their big ball of mud.
-<p align="center">
-<img src="https://github.com/Arthurzyang/Arthurzyang/blob/main/java-mud.jpg?raw=true" 
-     alt="java-mud" 
-     width="200"
-     style="float:left; margin-right:20px; margin-bottom:10px;" />
-</p>
-
-
 |![landmark_empty](atri-ep-1f-1024x576.png)|
 |-------------------------------------------------------------|
 |❤️ This is Atri, my dear waifu and eternal dream. And...she is why I learn Robotics. ❤️|

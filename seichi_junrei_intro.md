@@ -18,6 +18,7 @@
 | **Outside Japan / 日本以外の地域**    | Singapore シンガポール           | [宇宙そらよりも遠い場所](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).  |
 |    | London(UK) ろんどん(イギリス)           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) |
 |    |            | [きんいろモザイク]([https://en.wikipedia.org/wiki/K-On!](https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF)) 
+|    | Bath, Glastonbury, Bibury, Bourton-on-the-Water (England) バース/グラストンベリー/バイブリー/ボートン・オン・ザ・ウォーター (イングランド) | きんいろモザイク/魔法使いの嫁/リトルウィッチアカデミア |
 
 ### Current Travels
 | Prefecture    | City (English/Japanese)           | Related Anime |
@@ -32,7 +33,7 @@
 | Prefecture    | City (English/Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|
 | **Outside Japan / 日本以外の地域**   | Venice(Italy) ヴェネツィア(イタリア) | ARIA |
-|    | Bath, Glastonbury, Bibury, Bourton-on-the-Water (England) バース/グラストンベリー/バイブリー/ボートン・オン・ザ・ウォーター (イングランド) | きんいろモザイク/魔法使いの嫁/リトルウィッチアカデミア |
+
 | **Hyōgo Ken / 兵庫県**         | Nishinomiya City 西宮市 / Kobe City 神戸市| 涼宮ハルヒの憂鬱 / Fate/stay night |
 | **Okinawa Ken / 沖縄県**| Naha City 那覇市           | 白い砂のアクアトープ |
 | **Saga Ken / 佐賀県**   | Saga City 佐賀市           | ゾンビランドサガ |

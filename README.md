@@ -7,10 +7,12 @@
      style="float:left; margin-right:20px; margin-bottom:10px;" />
 </p>
 
-- 💻 CRUD Boy, API Summoner and C+V Engineer. Waifu Oriented Programming. 
-- :heart_eyes: Dev driven by hobbies, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) travels.
+- CRUD Boy, API Summoner and C+V Engineer. Waifu Oriented Programming. 
+- Dev driven by hobbies, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) travels.
 
 I'm currently focusing on content operation and tool dev for content travels :D
+
+But there are nothing worth to check in my repositories as I dont usually open my codes access...sry for that :(
 
 |![landmark_empty](atri-ep-1f-1024x576.png)|
 |-------------------------------------------------------------|

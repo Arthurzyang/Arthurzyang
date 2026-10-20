@@ -7,7 +7,8 @@
      style="float:left; margin-right:20px; margin-bottom:10px;" />
 </p>
 
-- CRUD Boy, API Summoner and C+V Engineer. Waifu Oriented Programming. Robotics Engineer.
+- CRUD Boy, API Summoner and C+V Engineer. Waifu Oriented Programming.
+- Working as Robotics Engineer.
 - Dev driven by hobbies, like anime, manga and video games — especially about [Seichi Junrei](https://en.wikipedia.org/wiki/Seichi_junrei) travels.
 
 I'm currently focusing on content operation and tool dev for content travels :D

@@ -15,7 +15,7 @@
 | **Yamanashi Ken / 山梨県**     | Minobu Town 身延町 / Nanbu Town 南部町 / Kōfu City 甲府市 / Fuefuki City 笛吹市 / Yamanashi City 山梨市 / Kōshū City 甲州市 / Nirasaki City 韮崎市 / Kai City 甲斐市 / Fujiyoshida City 富士吉田市 / Yamanakako Mura 山中湖村 | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / [SHIROBAKO](https://en.wikipedia.org/wiki/Shirobako) |
 | **Nagano Ken / 長野県**  | Suwa City 諏訪市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / ガールズバンドクライ |
 | **Kanagawa Ken / 神奈川県**    | Fujisawa City 藤沢市 / Yokohama City 横浜市 / Kawasaki City 川崎市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / [ぼっち・ざ・ろっく!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) / ガールズバンドクライ / 薫る花は凛と咲く|
-| **Tokyo（Tokubu） / 東京都（東京都區部）**         | 23区 | ゆるキャン△ / SHIROBAKO / BAKUMAN / 薫る花は凛と咲く |
+| **Tokyo（Tokubu） / 東京都（東京都區部）**         | 23区 | ゆるキャン△ / SHIROBAKO / BAKUMAN / 薫る花は凛と咲く / 対ありでした |
 | **Tokyo（Tama） / 東京都（多摩地域）**         | Hachiōji City 八王子市/Hino City 日野市/Musashino City 武蔵野市 | ゆるキャン△ / SHIROBAKO |
 | **Outside Japan / 日本以外の地域**    | Singapore シンガポール           | [宇宙そらよりも遠い場所](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).  |
 |    | London(UK) ろんどん(イギリス)           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) / [きんいろモザイク]([https://en.wikipedia.org/wiki/K-On!](https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF))  / 魔法使いの嫁

@@ -11,10 +11,12 @@
 | **Kagawa Ken / 香川県**        | Shōdoshima Town 小豆島（町）     | [からかい上手の高木さん](https://en.wikipedia.org/wiki/Teasing_Master_Takagi-san) |
 | **Gifu Ken / 岐阜県**          | Ōgaki City 大垣市 / Gifu City 岐阜市 /  Takayama City 高山市 / Shirakawa‑go  白川郷 | 聲の形 / 変人のサラダボウル / 〈小市民〉シリーズ / 氷菓 / ひぐらしのなく頃に |
 | **Aichi Ken / 愛知県**         | Nagoya City 名古屋市 /  Toyohashi City 豊橋市 | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / [響け! ユーフォニアム](https://en.wikipedia.org/wiki/Sound!_Euphonium) / 負けヒロインが多すぎる!|
-| **Shizuoka Ken / 静岡県**      | Hamamatsu City 浜松市 /Iwata City 磐田市 / Kakegawa City 掛川市 / Shimada City 島田市 / Fuji City 富士市 / Fujinomiya City 富士宮市 | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) |
+| **Shizuoka Ken / 静岡県**      | Hamamatsu City 浜松市 /Iwata City 磐田市 / Kakegawa City 掛川市 / Shimada City 島田市 / Fuji City 富士市 / Fujinomiya City 富士宮市 / Higashi-Izu Town 東伊豆町 /Shimoda City 下田市 / Itō City 伊東市/ Nishi-Izu Town 西伊豆町 | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / Mono |
 | **Yamanashi Ken / 山梨県**     | Minobu Town 身延町 / Nanbu Town 南部町 / Kōfu City 甲府市 / Fuefuki City 笛吹市 / Yamanashi City 山梨市 / Kōshū City 甲州市 / Nirasaki City 韮崎市 / Kai City 甲斐市 / Fujiyoshida City 富士吉田市 / Yamanakako Mura 山中湖村 | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / [SHIROBAKO](https://en.wikipedia.org/wiki/Shirobako) |
 | **Nagano Ken / 長野県**  | Suwa City 諏訪市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / ガールズバンドクライ |
-| **Kanagawa Ken / 神奈川県**    | Fujisawa City 藤沢市 / Yokohama City 横浜市 / Kawasaki City 川崎市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / [ぼっち・ざ・ろっく!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) / ガールズバンドクライ|
+| **Kanagawa Ken / 神奈川県**    | Fujisawa City 藤沢市 / Yokohama City 横浜市 / Kawasaki City 川崎市           | [ゆるキャン△](https://en.wikipedia.org/wiki/Laid-Back_Camp) / [ぼっち・ざ・ろっく!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) / ガールズバンドクライ / 薫る花は凛と咲く|
+| **Tokyo（Tokubu） / 東京都（東京都區部）**         | 23区 | ゆるキャン△ / SHIROBAKO / BAKUMAN / 薫る花は凛と咲く |
+| **Tokyo（Tama） / 東京都（多摩地域）**         | Hachiōji City 八王子市/Hino City 日野市/Musashino City 武蔵野市 | ゆるキャン△ / SHIROBAKO |
 | **Outside Japan / 日本以外の地域**    | Singapore シンガポール           | [宇宙そらよりも遠い場所](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe).  |
 |    | London(UK) ろんどん(イギリス)           | [けいおん!](https://en.wikipedia.org/wiki/K-On!) / [きんいろモザイク]([https://en.wikipedia.org/wiki/K-On!](https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF))  / 魔法使いの嫁
 |    | Bath, Glastonbury, Bibury, Bourton-on-the-Water (England) バース/グラストンベリー/バイブリー/ボートン・オン・ザ・ウォーター (イングランド) | きんいろモザイク/魔法使いの嫁/リトルウィッチアカデミア |
@@ -23,9 +25,8 @@
 | Prefecture    | City (English/Japanese)           | Related Anime |
 |---------------------------------------|------------------------------|---------------------------|
 | **Yamanashi Ken / 山梨県**             | Minami-Alps City 南アルプス市 / Ichikawamisato Town 市川三郷町 / Hokuto City 北杜市             | ゆるキャン△ / MONO |
-| **Shizuoka Ken / 静岡県**      | Hayakawa Town 早川町/Kawanehon Town 川根本町（大井川流域） / Higashi-Izu Town 東伊豆町 /Shimoda City 下田市 / Itō City 伊東市/ Nishi-Izu Town 西伊豆町                     | ゆるキャン△ | 
+| **Shizuoka Ken / 静岡県**      | Hayakawa Town 早川町/Kawanehon Town 川根本町（大井川流域）                      | ゆるキャン△ | 
 | **Nagano Ken / 長野県**        | Komagane City 駒ヶ根市/Chino City 茅野市/Shiojiri City 塩尻市| ゆるキャン△ |
-| **Tokyo / 東京都**         | Hachiōji City 八王子市/Hino City 日野市/Musashino City 武蔵野市 | ゆるキャン△ / SHIROBAKO |
 | **Chiba Ken / 千葉県**         | Chōshi City 銚子市 | ATRI |
 
 ### Later 2026
